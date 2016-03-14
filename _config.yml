@@ -1,7 +1,7 @@
 name: Daniele_Negroni_Videos
 favicon: null
-layout_spectrum: 0.3967607526574284
-typography_spectrum: 0.6151126520708203
+layout_spectrum: 0.65648
+typography_spectrum: 0.40724
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.5840103761292994
-  lightness: 0.6826257153879851
-  saturation: 0.7485621247906238
-  rhythmicContrast: 0.5517838415689766
+  brandStrength: 0.1875
+  lightness: 0.9375
+  saturation: 1
+  rhythmicContrast: 0.25
 purpose: []
