@@ -1,28 +1,40 @@
-name: Daniele_Negroni_Videos
 favicon: null
-layout_spectrum: 0.54164
-typography_spectrum: 0.40724
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Daniele_Negroni_Videos
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.05137845
+  brandStrength: 0
+  lightness: 0.112782
   brandColors:
     - '#090a0c'
     - '#f2b782'
     - '#e6ebd5'
     - '#93a491'
     - '#6d7368'
-  brandStrength: 0
-  lightness: 0.8125
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+  rhythmicContrast: 0.07518797
+typography_spectrum: 0.40724
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.54164
+analytics:
+  twitter: null
+  google: null
+  facebook: null
