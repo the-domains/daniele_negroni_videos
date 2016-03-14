@@ -61,8 +61,8 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=5ETmeFxF3m4'
 title: 'Daniele Negroni - "Forgive, Forget" (cover)'
-datePublished: '2016-03-14T20:39:33.729Z'
-dateModified: '2016-03-14T20:38:38.098Z'
+datePublished: '2016-03-14T20:47:42.965Z'
+dateModified: '2016-03-14T20:45:58.273Z'
 sourcePath: _posts/2016-03-14-daniele-negroni-forgive-forget-cover.md
 published: true
 inFeed: true
